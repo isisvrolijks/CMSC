@@ -3,7 +3,8 @@
 
 ##Data transfer format##
  
-+ A database has many files and can be in several places, and there are several formats of transferring these formats. 
++ A database has many files and can be in several places, and there are several formats of transferring 
+these formats. 
 HTTPS file transfer is the most used method for securing transactions online [ref2] Paxson, V. (2017, February). 
 This file transfer gives us an illustration of combined secure protocol and hypertext transfer protocol, and its main function is to send data over unsecured networks, like the internet. 
 HTTP operates at the topmost level of the TCP/IP model that formatting and sending data.
